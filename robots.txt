@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gangnam-waxing.pages.dev/sitemap.xml
