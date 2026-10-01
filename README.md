@@ -11,7 +11,7 @@
 6. Save and Deploy
 
 ## 배포 후 꼭 바꿀 것
-모든 HTML, sitemap.xml, robots.txt 안의 `https://gangnam-waxing.pages.dev` 를 실제 도메인으로 일괄 변경하세요.
+모든 HTML, sitemap.xml, rss.xml, robots.txt 안의 `https://gangnam-waxing.pages.dev` 를 실제 도메인으로 일괄 변경하세요.
 
 ## 파일 구조
 - index.html – 메인
